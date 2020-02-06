@@ -1,5 +1,9 @@
 team proyek website LDK ISHLAH Y.A.I
+Ketua: Mohammad Refaldo Rachman
+Wakil: Yogi Setiawan
+Pembina: Ka Ihsan
 
+Susunan Anggota
 1. front-end
   - Aldo
   - Yogi
@@ -11,4 +15,7 @@ team proyek website LDK ISHLAH Y.A.I
    - ilham
    - Winanda
    
+Catatan: Baik front-end dan back-end saling bekerja sama
+   
    Bismillah semoga sukses
+Aaamiin 
