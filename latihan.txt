@@ -1,0 +1,12 @@
+team proyek website LDK ISHLAH Y.A.I
+
+1. front-end
+  - Aldo
+  - Yogi
+  - Imsan
+  - Fauzi
+
+2. Back-and
+   - Kak Ihsan
+   - ilham
+   - Winanda
